@@ -1,0 +1,330 @@
+/*two-column*/
+*{
+	width: 900px;
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+
+.top-two-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	height: 100px;
+	background-color: gray;
+	margin-bottom: 20px;
+}
+
+.middle-one-two-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 250px;
+	height: 400px;
+	background-color: gray;
+	float: right;
+}
+
+.middle-two-two-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 600px;
+	height: 400px;
+	background-color: gray;
+	clear: left;
+}
+
+.bottom-two-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	height: 100px;
+	background-color: gray;
+	margin-top: 20px;
+}
+
+.top-three-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	height: 100px;
+	background-color: gray;
+	margin-bottom: 20px;
+}
+
+.container-three-column {
+	overflow: hidden;
+}
+
+.middle-one-three-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 100px;
+	height: 400px;
+	background-color: gray;
+	margin-bottom: 20px;
+	float: left;
+}
+
+.middle-two-three-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 600px;
+	height: 400px;
+	background-color: gray;
+	margin-bottom: 20px;
+	margin-left: 48px;
+	margin-right: 48px;
+	float: left;
+}
+
+.middle-three-three-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 100px;
+	height: 400px;
+	background-color: gray;
+	margin-bottom: 20px;
+	float: left;
+}
+
+.bottom-three-column{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	height: 100px;
+	background-color: gray;
+	margin-top: 20px;
+}
+
+.top-simple-marketing{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	height: 100px;
+	background-color: gray;
+	margin-top: 20px;
+}
+
+.container-simple-marketing-middle {
+	overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.simple-marketing-middle{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 440px;
+	height: 400px;
+	background-color: gray;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	float: left;
+}
+
+.bottom-simple-marketing{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	height: 100px;
+	background-color: gray;
+	margin-top: 20px;
+}
+
+.container-simple-marketing-middle-2{
+	overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.simple-marketing-middle-2{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 290px;
+	height: 200px;
+	background-color: gray;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	float: left;
+}
+
+.top-marketing-with-nav{
+	overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.logo-marketing-with-nav{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 230px;
+	height: 150px;
+	background-color: gray;
+	margin-right: 10px;
+	float: left;
+}
+
+.container-nav-marketing-with-nav{
+	overflow: hidden;
+	margin-top: 45px;
+	margin-bottom: 20px;
+	float: right;
+	width: auto;
+}
+
+.container-nav{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 130px;
+	height: 70px;
+	background-color: gray;
+	margin-left: 10px;
+	float: right;
+	margin-bottom: 20px;
+}
+
+.middle-marketing-with-nav{
+	overflow: hidden;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 900px;
+	height: 300px;
+	background-color: gray;
+	margin-bottom: 20px;
+}
+
+.container-marketing-with-nav{
+	overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.container-middle{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 250px;
+	height: 150px;
+	background-color: gray;
+	margin-right: 50px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.footer-marketing-with-nav{
+	overflow: hidden;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 900px;
+	height: 175px;
+	background-color: gray;
+	margin-bottom: 20px;
+
+}
+
+.container-top-magazine{
+	overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 600px;
+	height: 150px;
+}
+
+.container-magazine{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	width: 100px;
+	height: 70px;
+	background-color: gray;
+	margin-left: 10px;
+	float: right;
+	margin-bottom: 20px;
+	margin-top: 25px;
+}
+
+.left-float-vertical{
+	overflow: hidden;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: gray;
+	width: 175px;
+	height: 600px;
+	float: left;
+}
+
+.container-terrible{
+	overflow: hidden;
+	float: left;
+	width: 700px;
+}
+
+.horizontal-element{
+	margin-left: 20px;
+	margin-top: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: gray;
+	width: 675px;
+	height: 150px;
+}
+
+.horizontal-element-2{
+	margin: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: gray;
+	width: 450px;
+	height: 300px;
+	display: inline-block;
+}
+
+.vertical-element{
+	margin: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: gray;
+	width: 150px;
+	height: 300px;
+	float: right;
+}
+
+.boxes{	
+	margin-bottom: 20px;
+	margin-right: 50px;
+	margin-left: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: gray;
+	width: 105px;
+	height: 105px;
+	float: left;
+}
+
+.final-footer{
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: gray;
+	width: 900px;
+	height: 150px;
+	float: left;
+	overflow: hidden;
+}
